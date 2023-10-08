@@ -1,2 +1,3 @@
 # git_test
-First git repo. 
+First git repo!
+Hello Mum! 
